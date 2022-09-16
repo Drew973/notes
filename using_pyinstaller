@@ -1,0 +1,5 @@
+pyinstaller --onefile hello.py now works.
+
+needed pip3 install PyQt5
+install python3 modules with pip3 rather than pip.
+pyinstaller doesn't seem to find them with pip.
